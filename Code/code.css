@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=Lato&display=swap');
+
+
+* {
+    background-color: black;
+}
+
+/* .container {
+    justify-content: center;
+} */
+
+.colortext1 {
+    color: #8AC7E6;
+}
+
+.colortext2 {
+
+    color: #AAAAAA
+}
+
+.colortext3 {
+    color: #AADC78;
+}
+
+.colortext4 {
+    color: #ABD9C6;
+}
+
+.colortext5 {
+    color: #B5CC70;
+}
+
+.colortext6 {
+    color: #B8CC7A;
+}
+
+.colortext7 {
+    color: #D99077;
+}
+
+.colortext8 {
+    color: #E695BD;
+}
+
+.colortext9 {
+    color: #F26D6D;
+}
+
+.colortext10 {
+    color: #F2F2F2;
+}
+
+.colortext11 {
+    color: #FFCA80;
+}
+
+.colortext12 {
+    color: #FF9466;
+}
