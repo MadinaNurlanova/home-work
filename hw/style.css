@@ -2,23 +2,21 @@
     margin: 0;
     padding: 0;
 }
-div {
-    position: relative;
-    width: 10rem;
-}
+
 body::before {
-content:'';
-position: absolute;
-background-color: yellow;
-width: 20rem;
-height: 5rem;
- }
+    content: '';
+    position: absolute;
+    background-color: yellow;
+    width: 20rem;
+    height: 10rem;
+}
+
 body::after {
-    content:'';
+    content: '';
     position: absolute;
     background-color: black;
     width: 10rem;
-    height: 5rem;
-    bottom: 37rem;
-
+    height: 10rem;
+    bottom: 27rem;
+    right: 76rem;
 }
