@@ -1,0 +1,51 @@
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 140px;
+}
+
+.main__content {
+    text-transform: uppercase;
+}
+
+.box {
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    background-color: #F8F8F8;
+    border-radius: 12px;
+}
+
+.box-title {
+    padding: 20px 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   padding: 10px 10px;
+  
+}
+
+.cost {
+    width: 240px;
+    padding: 54px;
+}
+
+.cost div {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.cost div input {
+    padding: 5px;
+    border: 1px;
+    border-radius: 10px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.hero {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2');
+
+@import './variables.css';
+@import './header.css';
+@import './title.css';
+@import './content.css';
+
+body {
+    font-family: 'Inter';
+}

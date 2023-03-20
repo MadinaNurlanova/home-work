@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+
+}
+
+.header__img {
+
+    left: 290px;
+}
+
+.header-title {
+
+}
+
+header-button {
+    width: 100px;
+    height: 100px;
+    padding: 20px 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    left: 40px;
+    top: 18px;
+    border-radius: undefinedpx;
+    cursor: pointer;
+    display: none;
+}
+
+.header-button :hover {
+    background-color: yellow;
+}
